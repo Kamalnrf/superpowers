@@ -41,6 +41,14 @@ Read the introduction: [Superpowers for Claude Code](https://blog.fsck.com/2025/
 
 The plugin automatically handles skills repository setup on first run.
 
+#### Or Via One-Command Installation
+Use the [Claude Plugins CLI](https://claude-plugins.dev) to skip the marketplace setup:
+```bash
+npx claude-plugins install @EveryInc/every-marketplace/compounding-engineering
+```
+
+This automatically adds the marketplace and installs the plugin in a single step.
+
 ### Verify Installation
 
 ```bash
